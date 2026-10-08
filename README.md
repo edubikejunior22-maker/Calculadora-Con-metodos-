@@ -40,14 +40,15 @@ dotnet run
 
 ### Ejemplo 1: Ejecución normal
 
-<img width="480" height="307" alt="Captura de pantalla 2026-10-08 171121" src="https://github.com/user-attachments/assets/3394e232-2e6c-47ee-890e-5a65b4789da5" />
+<img width="542" height="243" alt="Captura de pantalla 2026-10-08 173405" src="https://github.com/user-attachments/assets/51347e42-1b70-4dfd-a8ec-5f275416ff83" />
 
 
 ### Ejemplo 2: División entre cero
 
 Cuando el segundo número es `0`, el método `Dividir` valida la operación y muestra un mensaje de error en lugar de calcular el resultado.
 
-<img width="708" height="305" alt="Captura de pantalla 2026-10-08 171238" src="https://github.com/user-attachments/assets/11357209-6f58-4a67-8335-1e4382662962" />
+<img width="709" height="232" alt="Captura de pantalla 2026-10-08 173449" src="https://github.com/user-attachments/assets/4282bd90-3c34-4038-b858-1e4be0da2831" />
+
 
 
 ## Archivo de entrega
